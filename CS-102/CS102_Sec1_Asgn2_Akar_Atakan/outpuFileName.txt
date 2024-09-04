@@ -1,0 +1,3 @@
+Any string we want to include to the output file can be send usign the write method. If you need line breaks,
+just include them using the new line character.
+END OF TEXT
